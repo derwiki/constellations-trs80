@@ -1,5 +1,7 @@
 # TRS-80 BASIC Star Identification Game
 
+![Screenshot of game play](screenshot.jpg "Screenshot of game play")
+
 ## Description
 This program is a fun and educational star identification game written in BASIC for the TRS-80. The game displays random star patterns on the screen and challenges the player to identify various constellations by entering the correct letter. Each round of the game presents a different constellation, with a selection of three to choose from.
 
